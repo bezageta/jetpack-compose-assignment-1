@@ -1,0 +1,27 @@
+
+
+
+# Build artifacts
+/build/
+/out/
+
+# IDE configuration files
+.idea/
+*.iml
+.gradle/
+
+# Generated files
+/app/build/
+/app/intermediates/
+/app/tmp/
+
+# Local configuration
+local.properties
+*.keystore
+
+# Log files
+*.log
+
+# Temporary files
+*.DS_Store
+Thumbs.db
